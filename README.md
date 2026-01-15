@@ -2,7 +2,7 @@
 
 ## Sejam Bem-Vindos ao meu Repositório! 
 
-## Tecnologias que estou aprendendo:
+### Tecnologias que estou aprendendo:
 
 * Java Script
 * Lógica de Programação

@@ -7,4 +7,5 @@
 
 * Java Script
 * Lógica de Programação
-* 
+* Deenvolvimento de Sistemas
+* Banco de Dados
